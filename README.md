@@ -71,8 +71,5 @@ I also became more comfortable using the Cisco CLI and checking configurations w
 
 There are still areas I want to improve, particularly firewall configuration and more advanced network troubleshooting.
 
-## Project Files
 
-- **Final Topology (1).pkt** — Packet Tracer network file
-- **Network-Topology.png** — Screenshot of the complete network
 
